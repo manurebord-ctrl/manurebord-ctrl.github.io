@@ -1,1 +1,8 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ch.nauticonnect.app",
+        "sha256_cert_fingerprints": ["F5:A6:9D:BF:65:40:15:F2:FA:31:A2:A9:C9:E6:0F:A3:09:4D:8D:D8:AD:AF:BD:9D:FB:54:81:EB:18:46:A9:E6"]
+      }
+    }]
