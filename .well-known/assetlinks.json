@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "ch.nauticonnect.app",
     "sha256_cert_fingerprints": [
+      "A7:3F:2D:84:CA:82:77:80:8E:B1:FE:87:CA:E9:E1:B5:59:C8:4A:C4:FE:11:8A:25:CA:12:FA:EB:3B:5B:0C:36",
       "DF:85:77:10:22:14:6D:2D:8D:31:86:9C:59:A4:23:82:7C:A6:0B:2B:F1:99:C3:55:B7:52:CC:6B:33:B5:DA:32",
       "F5:A6:9D:BF:65:40:15:F2:FA:31:A2:A9:C9:E6:0F:A3:09:4D:8D:D8:AD:AF:BD:9D:FB:54:81:EB:18:46:A9:E6"
     ]
